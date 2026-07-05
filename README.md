@@ -1,4 +1,4 @@
-##1. Project Overview
+#1. Project Overview
 
 This project analyzes student performance, skill development, placement readiness, and academic risk using educational ERP data collected from six engineering departments.
 
