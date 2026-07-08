@@ -1,3 +1,7 @@
+###🎓 College Student Performance Analytics Dashboard
+
+An End-to-End Data Analytics Project using Excel, Python, SQL Server, and Power BI
+
 1. Project Overview
 
 This project analyzes student performance, skill development, placement readiness, and academic risk using educational ERP data collected from six engineering departments.
