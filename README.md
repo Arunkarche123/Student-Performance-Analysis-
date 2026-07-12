@@ -39,4 +39,4 @@ This project answers the following business question:
 - Analyze internship involvement
 - Assess placement readiness
 - Identify high-risk students
-- Develop interactive dashboards for decision-making.
+- Develop interactive dashboards for decision-making
