@@ -261,7 +261,7 @@ An interactive dashboard was developed to help educational institutions monitor 
 
 # 📚 Documentation
 
-The repository includes the following project documents:
+The repository includes the following project documents:-
 
 - **Business Problem Statement** – Defines the business problem, objectives, and project scope.
 - **Final Project Report** – Explains the end-to-end analytics workflow, methodology, findings, and recommendations.
@@ -311,7 +311,7 @@ College-Student-Performance-Analytics/
 
 **Arun Karche**
 
-Bachelor of Engineering (Information Technology)
+Bachelor of Engineering (Information Technolog)
 
 - 💼 Aspiring Data Analyst
 - 📧 Email: arundadakarche007@gmail.com
